@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @inoyamanaka
+- 👋 Assalamualaikum Warahmatulahi Wabarakatu
+- ✨ Nama Saya Herlambang Kurniawan
 - 👀 I’m interested in Mobile dev and AI
 - 🌱 I’m currently learning Flutter, Machine Learning and maybe i want learn some ethical hacking too
 
