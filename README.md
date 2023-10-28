@@ -1,6 +1,8 @@
 - 👋 Assalamualaikum Warahmatulahi Wabarakatu
 - 👀 I’m interested in Mobile dev and AI
 - 🌱 I’m currently learning Flutter for mobile app and Machine Learning with python
+- Pernah menggunakan Github, Gitlab, Huggingsface
+- Bermain dengan senang dan gembira menggunakan flask dan fsatAPI untuk framework backend
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
