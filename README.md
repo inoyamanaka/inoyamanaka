@@ -1,8 +1,8 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
 - 👋 Assalamualaikum Warahmatulahi Wabarakatu
 - 👀 I’m interested in Mobile dev and AI
 - 🌱 I’m currently learning Flutter for mobile app and Machine Learning with python
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-
 
 <p>Welcome to my page! </br> I'm Herlambang Kurniawan, Programmer from Indonesia, currently living in Sleman, Yogyakarta</p>
 <h3>Things I code with</h3>
